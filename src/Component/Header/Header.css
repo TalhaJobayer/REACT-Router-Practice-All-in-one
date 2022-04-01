@@ -1,9 +1,6 @@
 ul,li{
     list-style: none;
 }
-a{
-    text-decoration: none;
-}
 
 
 .menu ul {
@@ -20,4 +17,5 @@ padding: 10px 20px;
 border-radius: 20px;
 font-size: 20px;
 color: rgb(193, 255, 1);
+text-decoration: none;
 }

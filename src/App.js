@@ -4,6 +4,7 @@ import { Route, Routes } from 'react-router-dom';
 import Header from './Component/Header/Header';
 import Home from './Component/Home/Home';
 import Countries from './Component/Countries/Countries';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Resturent from './Component/Resturent/Resturent';
 

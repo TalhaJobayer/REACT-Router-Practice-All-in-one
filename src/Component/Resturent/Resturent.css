@@ -1,0 +1,17 @@
+/* .div-Container{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    margin-top: 50px;
+  
+    gap: 20px;
+} */
+
+.input{
+   
+    border-radius: 10px;
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+}
